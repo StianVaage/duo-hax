@@ -1,0 +1,11 @@
+a.duoBackLink {
+  display: block;
+  background-color: white;
+  border: 1px solid black;
+  padding: 10px 20px;
+  color: black;
+  margin-top: 20px;
+  margin-inline: auto;
+  width: fit-content;
+  text-decoration: none;
+}
